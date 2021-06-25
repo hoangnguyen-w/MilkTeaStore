@@ -1,5 +1,6 @@
 ## Welcome to MilkTeaStore. This repo offers various math methods those are used as a helper for your project
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=hoangnguyen-w_MilkTeaStore&metric=alert_status)](https://sonarcloud.io/dashboard?id=hoangnguyen-w_MilkTeaStore)
 
 ### *_You will find in this repo the floowing stuff:_*
 
